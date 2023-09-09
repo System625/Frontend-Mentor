@@ -1,2 +1,3 @@
 # Frontend-Mentor
- This repository will be about projects from frontend mentor
+ First challenge from Frontend Mentor
+ https://qr-code-fr.netlify.app/
